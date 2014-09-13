@@ -1,0 +1,19 @@
+{
+    "context": "client",
+    "identifier": "fr.pa.fr33lancer.TeamCommLandingColor",
+    "display_name": "Team Commander Landing Color",
+    "description": "Changes the Commander landing effect to your Team Color",
+    "author": "Fr33lancer",
+    "version": "1.0.0",
+    "build": "71937",
+    "date": "2014/09/13",
+    "signature": "not yet implemented",
+    "forum": "https://forums.uberent.com/threads/about-to-be-rel-team-commander-landing-color.64170/",
+	"icon": "http://i.imgur.com/4gfkuVB.gif",
+    "category": [
+	  "in-game",
+	  "shader"
+    ],
+    "priority": 100,
+	"enabled": true
+}
